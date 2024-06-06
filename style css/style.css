@@ -1,1 +1,95 @@
 
+.logo{
+    height: 10rem;
+    width: 100%;
+    background-color:rgb(82, 126, 245);
+    background-image:url(../img/pattern.png) ;
+    background-size: 50%;   
+}
+
+
+.logo-img{
+    width: 20rem;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.titolo{
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+
+.scrittore{
+    text-decoration: none;
+    color: rgb(82, 126, 245);
+}
+
+.scritto{
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: grey;
+    font-size: 2rem;
+}
+
+p.description{
+    margin-top: 0%;
+}
+
+.descrizione-foto{
+    font-style: italic;
+    margin-top: 3px;
+}
+
+.articolo{
+    font-size: 2rem;
+}
+
+.evidenziare{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.riga-tabella{
+    background-color:  rgb(82, 126, 245);
+}
+
+
+.colonna-piccola{
+    width: 20%;
+}
+
+p.subscription{
+    font-size: 20px;
+    color: #747474;
+    margin-top: 0px;
+}
+
+.LOREM{
+    width: 60%;
+    
+}
+
+.altri-annunci{
+    color: grey;
+    font-size: 2em;
+}
+
+
+p.subscription{
+    font-size: 20px;
+    color: #747474;
+    margin-top: 0px;
+}
+
+ul{
+    padding-left: 15px;
+}
