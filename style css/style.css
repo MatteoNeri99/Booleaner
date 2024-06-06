@@ -1,0 +1,79 @@
+.logo{
+    height: 10rem;
+    width: 100%;
+    background-color:rgb(82, 126, 245);
+    background-image:url(../img/pattern.png) ;
+    background-size: 50%;   
+}
+
+
+.logo-img{
+    width: 20rem;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.titolo{
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+
+.scrittore{
+    text-decoration: none;
+    color: rgb(82, 126, 245);
+}
+
+.scritto{
+    margin-bottom: 0px;
+    margin-top: 5px;
+    color: grey;
+    font-size: 2rem;
+}
+
+.descrizione-foto2{
+    margin-bottom: 0px;
+}
+
+.descrizione-foto{
+    font-style: italic;
+    margin-top: 3px;
+}
+
+.articolo{
+    font-size: 2rem;
+}
+
+.evidenziare{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    font-size: 2rem;
+}
+
+thead{
+    background-color: blue;
+}
+
+.riga-tabella{
+    background-color:  rgb(82, 126, 245);
+}
+
+
+.colonna-piccola{
+    width: 20%;
+}
+
+
+
+.LOREM{
+    width: 60%;
+    
+}
+
+.altri-annunci{
+    color: grey;
+    font-size: 2em;
+}
+
